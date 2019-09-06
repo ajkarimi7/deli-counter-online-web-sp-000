@@ -5,6 +5,6 @@ def line(deli)
     puts "The line is currently empty."
   else 
     current_line = "The line is currently:"
-    
+    deli.each.with
   end 
 end 
